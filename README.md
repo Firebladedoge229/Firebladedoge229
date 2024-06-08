@@ -14,4 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firebladedoge229&show_icons=true&theme=dark&locale=en" alt="firebladedoge229" /></p>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; content: "i cant wait i cant wait"; background: url('https://github.com/Firebladedoge229/Firebladedoge229/blob/main/poodlehat.jpg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; border-style: solid; border-image: url(https://github.com/Firebladedoge229/Firebladedoge229/blob/main/god%20did.jpg?raw=true) 180 224 180 224 round round; border-width: 180px 224px 180px 224px; content: "i cant wait i cant wait"; background: url('https://github.com/Firebladedoge229/Firebladedoge229/blob/main/poodlehat.jpg?raw=true');]{x0000}$}
