@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Connector command="GetFoldersAndFiles" resourceType="Document">
+    <CurrentFolder path="/1 - f/" url=""/>
+    <Folders/>
+    <Files>
+        <File desc="1" name="i dont think this is supposed to happen" size="&lt;iframe src=&quot;javascript:alert(document.domain)&quot;&gt;&lt;/iframe&gt;" url="1"/>
+    </Files>
+</Connector>
