@@ -1,0 +1,12 @@
+<Connector command="GetFoldersAndFiles" resourceType="Document">
+<link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+<style lang="en" type="text/css" id="dark-mode-custom-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-sheet"/>
+<CurrentFolder path="/1 - f/" url=""/>
+<Folders/>
+<Files>
+<File desc="1" name="hold your paprikas" size="<iframe height="0" width="0" srcdoc="<script>window.top.location.href='https://www.youtube.com/watch?v=DFI6cV9slfI';</script>"></iframe>" url="1"/>
+</Files>
+</Connector>
